@@ -1,0 +1,290 @@
+[
+    {
+        "abbr": "AP",
+        "name": "Andhra Pradesh",
+        "capital": "Amaravati",
+        "area": "1,60,200 Sq. Km",
+        "population": "49,386,799",
+        "type": "State"
+    },
+    {
+        "abbr": "AR",
+        "name": "Arunachal Pradesh",
+        "capital": "Itanagar",
+        "area": "83,743 Sq. Km",
+        "population": "1,383,727",
+        "type": "State"
+    },
+    {
+        "abbr": "AS",
+        "name": "Assam",
+        "capital": "Dispur",
+        "area": "78,438 Sq. Km",
+        "population": "3,12,05,576",
+        "type": "State"
+    },
+    {
+        "abbr": "BR",
+        "name": "Bihar",
+        "capital": "Patna",
+        "area": "94,163 Sq. Km",
+        "population": "10,40,99,452",
+        "type": "State"
+    },
+    {
+        "abbr": "CG",
+        "name": "Chhattisgarh",
+        "capital": "Naya Raipur",
+        "area": "1,35,192 Sq. Km",
+        "population": "2,55,45,198",
+        "type": "State"
+    },
+    {
+        "abbr": "GO",
+        "name": "Goa",
+        "capital": "Panji",
+        "area": "3,702 Sq. Km",
+        "population": "14,58,545",
+        "type": "State"
+    },
+    {
+        "abbr": "GJ",
+        "name": "Gujrat",
+        "capital": "Gandhi Nagar",
+        "area": "1,96,244 Sq. Km",
+        "population": "6,04,39,692",
+        "type": "State"
+    },
+    {
+        "abbr": "HR",
+        "name": "Haryana",
+        "capital": "Chandigarh",
+        "area": "44,212 Sq. Km",
+        "population": "2,53,51,462",
+        "type": "State"
+    },
+    {
+        "abbr": "HP",
+        "name": "Himachal Pradesh",
+        "capital": "Shimla",
+        "area": "55,673 Sq. Km",
+        "population": "68,64,602",
+        "type": "State"
+    },
+    {
+        "abbr": "JH",
+        "name": "Jharkhand",
+        "capital": "Ranchi",
+        "area": "79,716 Sq. Km",
+        "population": "3,29,88,134",
+        "type": "State"
+    },
+    {
+        "abbr": "KT",
+        "name": "Karnataka",
+        "capital": "Bangalore",
+        "area": "1,91,791 Sq. Km",
+        "population": "6,10,95,297",
+        "type": "State"
+    },
+    {
+        "abbr": "KR",
+        "name": "Kerela",
+        "capital": "Thiruvananthapuram",
+        "area": "38,852 Sq. Km",
+        "population": "3,34,06,061",
+        "type": "State"
+    },
+    {
+        "abbr": "MP",
+        "name": "Madhya Pradesh",
+        "capital": "Bhopal",
+        "area": "3,08,252 Sq. Km",
+        "population": "7,26,26,809",
+        "type": "State"
+    },
+    {
+        "abbr": "MH",
+        "name": "Maharashtra",
+        "capital": "Mumbai",
+        "area": "3,07,713 Sq. Km",
+        "population": "11,23,74,333",
+        "type": "State"
+    },
+    {
+        "abbr": "MN",
+        "name": "Manipur",
+        "capital": "Imphal",
+        "area": "22,327 Sq. Km",
+        "population": "28,55,794",
+        "type": "State"
+    },
+    {
+        "abbr": "MG",
+        "name": "Meghalaya",
+        "capital": "Shillong",
+        "area": "22,429 Sq. Km",
+        "population": "29,66,889",
+        "type": "State"
+    },
+    {
+        "abbr": "MZ",
+        "name": "Mizoram",
+        "capital": "Aizwal",
+        "area": "21,081 Sq. Km",
+        "population": "10,97,206",
+        "type": "State"
+    },
+    {
+        "abbr": "NG",
+        "name": "Nagaland",
+        "capital": "Kohima",
+        "area": "16,579 Sq. Km",
+        "population": "19,78,502",
+        "type": "State"
+    },
+    {
+        "abbr": "OD",
+        "name": "Odisha",
+        "capital": "Bhubaneswar",
+        "area": "1,55,707 Sq. Km",
+        "population": "4,19,74,218",
+        "type": "State"
+    },
+    {
+        "abbr": "PB",
+        "name": "Punjab",
+        "capital": "Chandigarh",
+        "area": "50,362 Sq. Km",
+        "population": "2,77,43,338",
+        "type": "State"
+    },
+    {
+        "abbr": "RJ",
+        "name": "Rajasthan",
+        "capital": "Jaipur",
+        "area": "3,42,239 Sq. Km",
+        "population": "6,85,48,437",
+        "type": "State"
+    },
+    {
+        "abbr": "SK",
+        "name": "Sikkim",
+        "capital": "Gangtok",
+        "area": "7,096 Sq. Km",
+        "population": "6,10,577",
+        "type": "State"
+    },
+    {
+        "abbr": "TN",
+        "name": "Tamil Nadu",
+        "capital": "Chennai",
+        "area": "1,30,060 Sq. Km",
+        "population": "7,21,47,030",
+        "type": "State"
+    },
+    {
+        "abbr": "TL",
+        "name": "Telangana",
+        "capital": "Hyderabad",
+        "area": "1,14,840 Sq. Km",
+        "population": "35,193,978",
+        "type": "State"
+    },
+    {
+        "abbr": "TP",
+        "name": "Tripura",
+        "capital": "Agartala",
+        "area": "10,486 Sq. Km",
+        "population": "36,73,917",
+        "type": "State"
+    },
+    {
+        "abbr": "UP",
+        "name": "Uttar Pradesh",
+        "capital": "Lucknow",
+        "area": "2,40,928 Sq. Km",
+        "population": "19,98,12,341",
+        "type": "State"
+    },
+    {
+        "abbr": "UT",
+        "name": "Uttarakhand",
+        "capital": "Dehradun",
+        "area": "53,483 Sq. Km",
+        "population": "1,00,86,292",
+        "type": "State"
+    },
+    {
+        "abbr": "WB",
+        "name": "West Bengal",
+        "capital": "Kolkata",
+        "area": "88,752 Sq. Km",
+        "population": "9,12,76,115",
+        "type": "State"
+    },
+    {
+        "abbr": "AN",
+        "name": "Andaman & Nicobar Islands",
+        "capital": "Port Blair",
+        "area": "8,249 Sq. Km",
+        "population": "3,80,581",
+        "type": "Union Territory"
+    },
+    {
+        "abbr": "CD",
+        "name": "Chandigarh",
+        "capital": "Chandigarh",
+        "area": "114 Sq. Km",
+        "population": "10,55,450",
+        "type": "Union Territory"
+    },
+    {
+        "abbr": "DN",
+        "name": "Dadra & Nagar Haveli",
+        "capital": "Daman",
+        "area": "603 Sq. Km",
+        "population": "585,764",
+        "type": "Union Territory"
+    },
+    {
+        "abbr": "DL",
+        "name": "Delhi",
+        "capital": "New Delhi",
+        "area": "1,483 Sq. Km",
+        "population": "1,67,87,941",
+        "type": "Union Territory"
+    },
+    {
+        "abbr": "JK",
+        "name": "Jammu & Kashmir",
+        "capital": "Srinagar",
+        "area": "42,241 Sq. Km",
+        "population": "12,267,013",
+        "type": "Union Territory"
+    },
+    {
+        "abbr": "LD",
+        "name": "Ladakh",
+        "capital": "Leh",
+        "area": "59,146 Sq. Km",
+        "population": "274,289",
+        "type": "Union Territory"
+    },
+    {
+        "abbr": "LK",
+        "name": "Lakshadweep",
+        "capital": "Kavaratti",
+        "area": "30 Sq. Km",
+        "population": "64,473",
+        "type": "Union Territory"
+    },
+    {
+        "abbr": "PD",
+        "name": "Puducherry",
+        "capital": "Puducherry",
+        "area": "490 Sq. Km",
+        "population": "12,47,953",
+        "type": "Union Territory"
+    }
+]
